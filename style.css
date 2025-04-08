@@ -20,3 +20,7 @@ table {
   .user-item:hover {
     background-color: #e9e9e9;
   }
+
+  .d-none{
+    display: none;
+  }
